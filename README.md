@@ -1,1 +1,1 @@
-# people-team
+# people-team Hello GitHub!
